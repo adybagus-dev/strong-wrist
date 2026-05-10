@@ -1,0 +1,4 @@
+node_modules
+dist
+.codex-tools
+.DS_Store
