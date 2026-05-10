@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
-import type { GameStatus } from './types';
+import type { GameStatus } from '../../shared';
 
 type GameCanvasProps = {
   wristControl: number;
